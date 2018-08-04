@@ -1,2 +1,3 @@
-# GameDevUnity
-## Udemy Course
+# GameDevUnity - Udemy Course
+*Galaxy Shooter*
+
